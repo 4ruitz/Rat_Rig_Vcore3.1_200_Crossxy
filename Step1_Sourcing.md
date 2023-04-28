@@ -1,7 +1,10 @@
 Parts list
 
-Frame 
+Frame
+
 Motors
+
 MCU
+
 Host
 
