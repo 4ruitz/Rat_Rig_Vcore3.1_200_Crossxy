@@ -1,2 +1,2 @@
-# Annex_k3_build_log
-Build log of my K3 from sourcing to testing to printing. (ongoing project)
+# Custom Rat Rig Vcore 3.1 (200mm) Crossxy build.
+My build log of a partially custom Crossxy build. 
